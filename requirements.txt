@@ -2,3 +2,4 @@ streamlit
 transformers
 torch
 pdfminer.six
+huggingface
